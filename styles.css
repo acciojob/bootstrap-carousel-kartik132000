@@ -1,1 +1,8 @@
 /* Do not add any css, this is a bootstrap only assignment  */
+body{
+	border: 10px solid black;
+	border-radius: 10px;
+	width:100%;
+	display:flex;
+}
+
